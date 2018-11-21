@@ -1,4 +1,4 @@
 # jcp_code
-Agent-based model in C MPI used in JCP publication
+Parallelized agent-based model in C/MPI
 
-https://www.sciencedirect.com/science/article/pii/S0021999112004354
+Source code for the work in https://www.sciencedirect.com/science/article/pii/S0021999112004354
